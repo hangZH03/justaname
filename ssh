@@ -1,0 +1,47 @@
+total 4258
+drwxr-xr-x 1 张行 197121       0 十一 16 11:16 ./
+drwxr-xr-x 1 张行 197121       0 十月  2  2016 ../
+drwxr-xr-x 1 张行 197121       0 五月  6  2017 .android/
+drwxr-xr-x 1 张行 197121       0 十一  7 23:07 .eclipse/
+-rw-r--r-- 1 张行 197121      52 十一 16 08:47 .gitconfig
+drwxr-xr-x 1 张行 197121       0 九月 12  2016 .idlerc/
+drwxr-xr-x 1 张行 197121       0 十二  8  2016 .jssc/
+drwxr-xr-x 1 张行 197121       0 十月 23 18:46 .matplotlib/
+drwxr-xr-x 1 张行 197121       0 十月 20  2016 .oracle_jre_usage/
+drwxr-xr-x 1 张行 197121       0 十一 15 20:56 .p2/
+drwxr-xr-x 1 张行 197121       0 十一 16 11:17 .ssh/
+drwxr-xr-x 1 张行 197121       0 十一  5 12:15 .TianTianVM/
+drwxr-xr-x 1 张行 197121       0 十一  2  2016 .tooling/
+drwxr-xr-x 1 张行 197121       0 七月  7 12:10 .VirtualBox/
+lrwxrwxrwx 1 张行 197121      60 三月 22  2016 「开始」菜单 -> /c/Users/张行/AppData/Roaming/Microsoft/Windows/Start Menu/
+drwxr-xr-x 1 张行 197121       0 三月 22  2016 AppData/
+lrwxrwxrwx 1 张行 197121      31 三月 22  2016 Application Data -> /c/Users/张行/AppData/Roaming/
+drwxr-xr-x 1 张行 197121       0 九月 14 17:03 Contacts/
+lrwxrwxrwx 1 张行 197121      57 三月 22  2016 Cookies -> /c/Users/张行/AppData/Roaming/Microsoft/Windows/Cookies/
+drwxr-xr-x 1 张行 197121       0 十一 14 13:07 Desktop/
+drwxr-xr-x 1 张行 197121       0 十一  8 23:38 Documents/
+drwxr-xr-x 1 张行 197121       0 十一  6 10:18 Downloads/
+drwxr-xr-x 1 张行 197121       0 八月 31 08:41 Dropbox/
+drwxr-xr-x 1 张行 197121       0 九月 14 17:03 Favorites/
+drwxr-xr-x 1 张行 197121       0 十月 27 14:44 Links/
+lrwxrwxrwx 1 张行 197121      29 三月 22  2016 Local Settings -> /c/Users/张行/AppData/Local/
+drwxr-xr-x 1 张行 197121       0 十月 23 17:52 Miniconda3/
+drwxr-xr-x 1 张行 197121       0 九月 14 17:03 Music/
+lrwxrwxrwx 1 张行 197121      25 三月 22  2016 My Documents -> /c/Users/张行/Documents/
+lrwxrwxrwx 1 张行 197121      67 三月 22  2016 NetHood -> /c/Users/张行/AppData/Roaming/Microsoft/Windows/Network Shortcuts/
+-rw-r--r-- 1 张行 197121 2359296 十一 16 11:21 NTUSER.DAT
+-rw-r--r-- 1 张行 197121  262144 十一 16 11:21 ntuser.dat.LOG1
+-rw-r--r-- 1 张行 197121       0 三月 22  2016 ntuser.dat.LOG2
+-rw-r--r-- 1 张行 197121   65536 三月 22  2016 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+-rw-r--r-- 1 张行 197121  524288 三月 22  2016 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 张行 197121  524288 三月 22  2016 NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 张行 197121      20 三月 22  2016 ntuser.ini
+drwxr-xr-x 1 张行 197121       0 九月 14 17:03 Pictures/
+lrwxrwxrwx 1 张行 197121      67 三月 22  2016 PrintHood -> /c/Users/张行/AppData/Roaming/Microsoft/Windows/Printer Shortcuts/
+lrwxrwxrwx 1 张行 197121      56 三月 22  2016 Recent -> /c/Users/张行/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 张行 197121       0 九月 14 17:03 Saved Games/
+drwxr-xr-x 1 张行 197121       0 九月 14 17:03 Searches/
+lrwxrwxrwx 1 张行 197121      56 三月 22  2016 SendTo -> /c/Users/张行/AppData/Roaming/Microsoft/Windows/SendTo/
+lrwxrwxrwx 1 张行 197121      59 三月 22  2016 Templates -> /c/Users/张行/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 张行 197121       0 九月 14 17:03 Videos/
+drwxr-xr-x 1 张行 197121       0 十月  2  2016 VirtualBox VMs/
